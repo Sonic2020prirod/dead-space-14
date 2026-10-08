@@ -24,7 +24,6 @@
   - type: Loadout
     prototypes:
       - CentComAvavaGear
-    components:
   - type: Language
     knownLanguages:
     - GeneralLanguage
